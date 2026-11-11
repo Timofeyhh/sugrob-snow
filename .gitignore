@@ -1,0 +1,9 @@
+# Build output
+build/
+*.exe
+*.o
+*.obj
+
+# Test output written by the --snapshot / --stats flags
+*.bmp
+sugrob_*.txt
