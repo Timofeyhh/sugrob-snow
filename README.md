@@ -6,7 +6,7 @@ A transparent overlay on the primary monitor, on top of every window. Snowflakes
 edges of windows, on the taskbar and along the bottom of the screen. The cursor sweeps the snow away, and mouse
 clicks pass straight through it. When a game or a video is running fullscreen, the snow hides by itself.
 
-The build produces a single file, `build\Sugrob.exe` (about 300 KB). Nothing to install.
+The build produces a single file, `build\Sugrob.exe` (about 370 KB). Nothing to install.
 Windows 10 / 11, primary monitor.
 
 ## Usage
